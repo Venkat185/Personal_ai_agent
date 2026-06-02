@@ -1,4 +1,4 @@
-# My First AI Agent
+# Personal AI Agent
 
 A simple AI agent built with **LangChain** and **Kimi K2.5** (via NVIDIA API). It uses tools to answer questions—weather, calculator, current time, and web search.
 
